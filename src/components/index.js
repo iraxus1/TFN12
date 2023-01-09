@@ -1,0 +1,8 @@
+export {default as Home} from "./Home.js"
+export {default as About} from "./About.js"
+export {default as Services} from "./Services.js"
+export {default as Contact} from "./Contact.js"
+export {default as De} from "./De.js"
+export {default as Pl} from "./Pl.js"
+export {default as Us} from "./Us.js"
+export {default as UnexpectedSite} from "./UnexpectedSite.js"
